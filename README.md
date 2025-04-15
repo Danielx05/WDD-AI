@@ -1,4 +1,3 @@
 # WDD-AI
-Summer Camp
-hello
+Summer Camp 2024
 Daniel
